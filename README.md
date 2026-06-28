@@ -1,70 +1,89 @@
-<h1 align="center">Hi 👋, I'm Omar Shawqi</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Student • Front-End Developer • AI & Web Development Enthusiast • Entrepreneur
-</h3>
+# Hi 👋 I'm Omar Shawqi
 
-<p align="center">
-I enjoy building modern web applications, creating digital products, solving real-world problems through technology, and continuously learning new skills.
-</p>
+### Computer Science Student | Front-End Developer | AI & Web Development Enthusiast | Entrepreneur
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=2EA8FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Front-End+Developer;AI+%26+Web+Development+Enthusiast;Digital+Marketing+Specialist;Always+Learning+Something+New"/>
 
-## 🚀 About Me
-
-- 🎓 Computer Science Student at Albukhary International University (Malaysia)
-- 💻 Passionate about Front-End Development and Artificial Intelligence
-- 🌐 Building responsive websites using HTML, CSS and JavaScript
-- 📈 Interested in Digital Marketing, Business, and Entrepreneurship
-- 🛒 Founder of multiple online businesses
-- 🤝 Open to Internship, Freelance and Remote Opportunities
-- 🌱 Currently learning Java, Python, Data Structures and AI
-- 🎯 Goal: Build impactful software that improves people's lives
+</div>
 
 ---
 
-## 💻 Tech Stack
+# 👨‍💻 About Me
 
-### Languages
+🎓 Computer Science Student at Albukhary International University (Malaysia)
+
+💻 Passionate about Front-End Development and Artificial Intelligence
+
+🌐 Building responsive web applications with HTML, CSS & JavaScript
+
+📈 Interested in Business, Digital Marketing and Entrepreneurship
+
+🚀 Founder of multiple online businesses
+
+🌱 Currently learning
+
+- Java
+- Python
+- Data Structures
+- AI
+- Modern Web Development
+
+🎯 Goal
+
+Build software that creates real-world impact.
+
+---
+
+# 🚀 Tech Stack
+
+### Programming Languages
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
 ---
 
-## 🌐 Web Development
+# 🌐 Web Development
 
-- Responsive Web Design
+- Responsive Design
 - Front-End Development
 - Git & GitHub
 - GitHub Pages
-- UI/UX Basics
+- UI / UX Basics
 - Website Deployment
 
 ---
 
-## 🎨 Design & Tools
+# 🎨 Tools
 
+- Git
+- GitHub
 - Canva
 - Figma
 - Odoo
 - WordPress
 - Microsoft Office
-- Google Workspace
 
 ---
 
-## 📈 Business & Marketing
+# 📈 Business Skills
 
 - Digital Marketing
 - Branding
 - E-Commerce
-- Social Media Management
 - Content Creation
 - Sales
 - Customer Communication
@@ -74,9 +93,9 @@ I enjoy building modern web applications, creating digital products, solving rea
 
 # 🚀 Featured Projects
 
-### 🌍 Personal Portfolio
+### 🌍 Portfolio Website
 
-Professional portfolio showcasing my projects, experience and technical skills.
+Professional portfolio showcasing my projects and skills.
 
 🔗 https://omarshawqi7722.github.io/omar-shawqi-portfolio/
 
@@ -84,61 +103,54 @@ Professional portfolio showcasing my projects, experience and technical skills.
 
 ### ⌚ OZO Store
 
-Luxury online watch store with modern UI/UX and branding.
+Luxury online watch store with modern UI.
 
 ---
 
 ### 🚗 Car Supplier Management System
 
-Java desktop application for managing vehicles, customers and purchase requests.
+Desktop Java application.
 
 ---
 
-### 🤖 AI Resume Builder (Coming Soon)
+### 🤖 AI Resume Builder
 
-Generate ATS-optimized resumes using Artificial Intelligence.
-
----
-
-### 📊 Smart E-Commerce Dashboard (Coming Soon)
-
-Interactive analytics dashboard for online stores.
+Coming Soon
 
 ---
 
-## 🏆 Certifications
+### 📊 Smart E-Commerce Dashboard
 
-- Google Career Certificates
-- Coursera Professional Certificates
-- UNICEF Certificate
-- ICDL International
+Coming Soon
+
+---
+
+# 📜 Certifications
+
+- Google
+- Coursera
+- UNICEF
+- ICDL
 - IELTS
-- Google Digital Skills
-- Canva Certificate
 
 ---
 
-## 🌍 Languages
+# 🌍 Connect With Me
 
-- Arabic 🇾🇪 (Native)
-- English 🇬🇧 (Professional Working Proficiency)
+Portfolio
 
----
-
-## 📫 Connect With Me
-
-Portfolio:
 https://omarshawqi7722.github.io/omar-shawqi-portfolio/
 
-LinkedIn:
+LinkedIn
+
 https://linkedin.com/in/omarshawqi
 
-GitHub:
+GitHub
+
 https://github.com/OMARSHAWQI7722
 
-Email:
+Email
+
 7omarshawqi7@gmail.com
 
 ---
-
-⭐ Thanks for visiting my profile!
